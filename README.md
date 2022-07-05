@@ -2,6 +2,14 @@
 
 Let's practice our layout skills by creating the page shown in the reference images below -
 
+```javascript
+person.name : Corey Mason
+person.gender : Female
+person.height : 168
+person.citizenship : Germany
+person.eye colour : brown
+```
+
 #### Desktop
 
 ![desktop](/assets/desktop.png)
